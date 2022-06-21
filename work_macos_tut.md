@@ -3,49 +3,49 @@
 https://tunnelblick.net/release/Latest_Tunnelblick_Stable.dmg
 
 `Разрешить` (если Safari)
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut01.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut01.png)<br/>
 
 **Далее в списке загрузок нажать на скачанный файл**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut02.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut02.png)<br/>
 
 **Дважды нажать на иконку**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut03.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut03.png)<br/>
 
 **Если появилось предупреждение, нажать `Открыть`**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut04.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut04.png)<br/>
 
 **Нажать** `Продолжить`
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut05.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut05.png)<br/>
 **Ввести пароль от учетной записи**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut06.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut06.png)<br/>
 
 **Разрешить отображение уведомлений от приложения Tunnelblick**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut07.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut07.png)<br/>
 
 `У меня ЕСТЬ файлы конфигурации`
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut08.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut08.png)<br/>
 
 **Нажать ОК**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut09.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut09.png)<br/>
 
 **Открыть ссылку и скачать файл конфигурации**
 https://antizapret.prostovpn.org/antizapret-tcp.ovpn
 
 **Открыть его из списка загрузок**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut10.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut10.png)<br/>
 
 **Нажать** `Только я`
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut11.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut11.png)<br/>
 *Может потребоваться снова ввести пароль*
 
 **Нажать на значок Tunnelblick в трее и выбрать** `Соединить antizapret-tcp`
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut12.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut12.png)<br/>
 
 **Подождать пока статус не изменится на:** `Соединен`
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut13.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut13.png)<br/>
 
 **Нажать ОК**
-![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut14.png)  
+![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut14.png)<br/>
 
 **После этого заблокированные РКН сайты должны работать**
 ![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut15.png)
