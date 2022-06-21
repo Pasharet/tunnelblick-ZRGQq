@@ -3,7 +3,6 @@
 **Скачать Tunnelblick *(нажать на ссылку)***
 https://tunnelblick.net/release/Latest_Tunnelblick_Stable.dmg
 
-
 `Разрешить` (если Safari)
 
 ![Image](https://raw.githubusercontent.com/Pasharet/tunnelblick-ZRGQq/main/images/tut01.png)
